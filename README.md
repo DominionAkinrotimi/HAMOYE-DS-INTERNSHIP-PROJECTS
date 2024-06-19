@@ -6,9 +6,9 @@ Welcome to my Hamoye Data Science Internship Repository! This repository is dedi
 
 Throughout the internship, I'll be tackling various data science tasks and projects, each residing in its designated folder within this repository. This structure allows for easy navigation and retrieval of specific materials based on the stage of the internship or the project's focus.
 
-## Folder Structure
+## Repository Structure
 
-The repository is organized into different folders, each representing a phase or stage of the internship. Here's a brief overview of the folder structure:
+The repository contains different files each representing a phase or stage of the internship. Here's a brief overview of the file structure:
 
 - **Stage A**: Contains projects and code developed during the initial stage of the internship: Introduction to Python for Machine Learning.
 - **Stage B**: Contains materials related to Regression in Machine Learning
