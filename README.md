@@ -17,7 +17,7 @@ The repository contains different files each representing a phase or stage of th
 - **Stage E**: Focuses on Practical Time Series Analysis and Forecasting.
 ## How to Navigate
 
-Feel free to explore the repository and folders that interest you the most. Each folder contains its own README.md file providing detailed information about the projects and code within.
+Feel free to explore the repository and folders that interest you the most. Subsequently, updates will be made and each folder will contains its own README.md file providing detailed information about the projects, data used for the project and code within.
 
 ## Getting Started
 
